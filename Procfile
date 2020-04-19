@@ -1,1 +1,1 @@
-web: python trydjango/src/manager.py
+web: python db_maker/db_maker.py
