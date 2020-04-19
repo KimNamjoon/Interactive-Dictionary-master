@@ -1,1 +1,1 @@
-"web: db_maker/db_maker.py" 
+web: db_maker/db_maker.py 
